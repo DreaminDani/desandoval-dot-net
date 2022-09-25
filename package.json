@@ -44,7 +44,7 @@
     "react-markdown": "^2.5.1",
     "react-medium-image-zoom": "^3.0.15",
     "react-prism": "^4.3.2",
-    "react-swipeable-views": "^0.13.0",
+    "react-swipeable-views": "^0.14.0",
     "react-web-animation": "^0.7.0",
     "redis": "^2.8.0",
     "rss-parser": "^3.5.2",
