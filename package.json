@@ -31,7 +31,7 @@
     "lodash": "^4.17.11",
     "mdi-react": "^4.4.0",
     "medium-json-feed": "0.0.3",
-    "next": "^7.0.2",
+    "next": "^11.0.0",
     "nprogress": "^0.2.0",
     "prismjs": "^1.15.0",
     "prop-types": "^15.6.2",
