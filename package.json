@@ -46,7 +46,7 @@
     "react-prism": "^4.3.2",
     "react-swipeable-views": "^0.13.0",
     "react-web-animation": "^0.7.0",
-    "redis": "^2.8.0",
+    "redis": "^3.0.0",
     "rss-parser": "^3.5.2",
     "style-loader": "^0.23.1"
   },
